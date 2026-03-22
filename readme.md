@@ -6,11 +6,12 @@ A full-stack web application that visualizes AI conversations as an interactive 
 
 | Desktop | Mobile |
 |---------|--------|
-| ![Desktop Preview](screenshots/desktop.png) | ![Mobile Preview](screenshots/mobile.png) |
+| ![Desktop Preview](assets/desktop.png) | ![Mobile Preview](assets/mobile.png) |
 
 ## Video Tutorial
 
-[![Watch Demo](screenshots/thumbnail.png)](https://your-video-link-here)
+[![▶ Watch Tutorial](https://img.shields.io/badge/▶%20Watch%20Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=NDUNaCGepvg)
+
 
 ## Tech Stack
 

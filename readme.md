@@ -20,7 +20,7 @@ A full-stack web application that visualizes AI conversations as an interactive 
 - **Frontend** — React 18, Vite, React Flow, Axios
 - **Backend** — Node.js, Express.js, Mongoose
 - **Database** — MongoDB Atlas
-- **AI** — OpenRouter API (Mistral-7B)
+- **AI** — OpenRouter API 
 
 ## Prerequisites
 

@@ -2,6 +2,8 @@
 
 A full-stack web application that visualizes AI conversations as an interactive flowchart. Type a prompt into the input node, click "Run Flow" to get an AI response, and save conversations to MongoDB.
 
+[![Live Demo](https://img.shields.io/badge/-%F0%9F%94%B5%20LIVE%20DEMO-blue?style=for-the-badge&labelColor=blue)](https://future-blick-mern-project.vercel.app/)
+
 ## Preview
 
 | Desktop | Mobile |
